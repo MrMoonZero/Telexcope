@@ -1,2 +1,0 @@
-# Telexcope
-Telexcope lib
