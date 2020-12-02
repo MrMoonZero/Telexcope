@@ -1,0 +1,25 @@
+{
+    "name": "moon/telexcope",
+    "description": "a simple telegram api which makes it easier to communicate with telegram bots.(made by Mr.Moon)",
+    "type": "library",
+    "require": {
+        "monolog/monolog": "^2.1",
+        "vlucas/phpdotenv": "^5.2",
+        "spatie/emoji": "^2.1",
+        "bramus/router": "^1.5",
+        "phpunit/php-timer": "^5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Moon\\Telexcope\\": "src"
+        }
+    },
+    "license": "Mr.MoonXs",
+    "authors": [
+        {
+            "name": "Mr.Moon",
+            "email": "Mr.moonxs@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
